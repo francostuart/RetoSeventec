@@ -1,0 +1,4 @@
+ruta_input=C:/RPA_SEVENTEC_PY/Input/Boletas/
+ruta_output=C:/RPA_SEVENTEC_PY/Output/
+correo_destino=francostuart95@gmail.com
+correo_copia=framosg@valtx.pe
