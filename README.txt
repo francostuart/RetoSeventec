@@ -13,8 +13,7 @@ Debe tener instalado lo sgt:
 	Al clonar el proyecto respetar la estructura de carpeta:(C:/RPA_SEVENTEC_PY), en caso que se cambie la ruta, las rutas del robot se deben configurar en el Config.txt
 
 Ejecucion:
-
-Clone el proyecto, y ejecute el Main.bat que esta en la carpeta principal, para ejecutar la automatizacion.
-isntalar las librerias indicadas en requeriments.txt, puede utilizar el comando: pip install -r requirements.txt
-
+Tener en cuenta que se debe eliminar el archivo boletas.pdf, antes de ejecutar la automatizacion.
+Clonar el proyecto y ejecutar el Main.bat.
+Instalar las librerias indicadas en requeriments.txt.
 
